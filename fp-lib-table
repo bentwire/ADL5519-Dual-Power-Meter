@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name vna)(type KiCad)(uri /home/mike/SDR/vna2/hw/vna.pretty)(options "")(descr ""))
+  (lib (name kicad-footprints)(type KiCad)(uri /home/mike/kicad/libs/kicad-footprints.pretty)(options "")(descr ""))
+)
